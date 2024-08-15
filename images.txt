@@ -1,5 +1,4 @@
 vulhub/showdoc:2.8.2
 keking/kkfileview
-eahom/mm-wiki
 greaterwms/greaterwms:front
 greaterwms/greaterwms:backend
