@@ -2,3 +2,11 @@ vulhub/showdoc:2.8.2
 keking/kkfileview
 greaterwms/greaterwms:front
 greaterwms/greaterwms:backend
+ibizlab/ehr-app-ehrpim:v1
+ibizlab/ehr-app-ehratt:v1
+ibizlab/ehr-app-ehrpcm:v1
+ibizlab/ehr-app-ehrorm:v1
+ibizlab/ehr-app-ehrpar:v1
+ibizlab/ehr-provider-webapi:v1
+mysql:5.7.20
+nacos/nacos-server:v2.2.0
