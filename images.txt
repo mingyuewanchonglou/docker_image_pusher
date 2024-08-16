@@ -10,3 +10,4 @@ ibizlab/ehr-app-ehrpar:v1
 ibizlab/ehr-provider-webapi:v1
 mysql:5.7.20
 nacos/nacos-server:v2.2.0
+bitnami/suitecrm:7.14.1
