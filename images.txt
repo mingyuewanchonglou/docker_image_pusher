@@ -13,3 +13,8 @@ nacos/nacos-server:v2.2.0
 bitnami/suitecrm:7.14.1
 algernonking/dtmysql:2.2.26
 algernonking/dtapp:2.2.26
+yunzhihui/flyfishmysql:3.0.0
+yunzhihui/flyfishcodeserver:3.0.0
+yunzhihui/flyfishdevserver:3.0.0
+yunzhihui/flyfishserver:3.0.0
+yunzhihui/flyfishweb:3.0.0
