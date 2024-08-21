@@ -18,3 +18,5 @@ yunzhihui/flyfishcodeserver:3.0.0
 yunzhihui/flyfishdevserver:3.0.0
 yunzhihui/flyfishserver:3.0.0
 yunzhihui/flyfishweb:3.0.0
+bitnami/suitecrm:7.14.2
+bitnami/mariadb
