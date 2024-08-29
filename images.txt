@@ -22,3 +22,4 @@ bitnami/suitecrm:7.14.2
 bitnami/mariadb
 jpomdocker/jpom
 kawhii/sso
+kvf/kvf:latest
