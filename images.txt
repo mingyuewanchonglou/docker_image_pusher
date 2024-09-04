@@ -24,4 +24,4 @@ jpomdocker/jpom
 kawhii/sso
 doramart/dora-mongo
 admpub/nging:latest
-sismics/docs:v1.0
+sismics/docs:v1.9
