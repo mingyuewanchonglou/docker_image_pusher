@@ -25,4 +25,5 @@ kawhii/sso
 doramart/dora-mongo
 admpub/nging:latest
 sismics/docs:v1.11
-fuhai/jpress:v5.1.2
+fuhai/jpress:v5.0.0
+fuhai/jpress:v4.2.2
