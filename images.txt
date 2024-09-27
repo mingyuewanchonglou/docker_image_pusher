@@ -1,1 +1,1 @@
-doramart/dora-mongo
+redis:latest
