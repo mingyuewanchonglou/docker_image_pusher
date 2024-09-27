@@ -1,1 +1,2 @@
 redis:latest
+mongo-express:0.53.0
