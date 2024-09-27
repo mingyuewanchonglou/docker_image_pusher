@@ -1,2 +1,1 @@
 vulhub/showdoc:2.8.2
-vulhub/mongo-express:0.53.0
