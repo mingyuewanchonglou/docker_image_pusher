@@ -1,1 +1,1 @@
-vulhub/showdoc:2.8.2
+doramart/dora-mongo
