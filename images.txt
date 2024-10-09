@@ -1,3 +1,4 @@
 redis:latest
 vulhub/mongo-express:0.53.0
 mongo:3.4
+bkimminich/juice-shop
