@@ -1,4 +1,10 @@
-redis:latest
-vulhub/mongo-express:0.53.0
-mongo:3.4
-bkimminich/juice-shop
+vulhub/ofbiz:18.12.10
+vulhub/elfinder:2.1.58
+vulhub/geoserver:2.23.2
+vulhub/grafana:8.2.6
+vulhub/openfire:4.7.4
+vulhub/laravel:8.4.2
+vulhub/solr:8.2.0
+vulhub/pgadmin:6.16
+vulhub/teamcity:2023.05.3
+vulhub/webmin:1.910
