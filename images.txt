@@ -14,3 +14,4 @@ vulhub/jenkins:2.441
 vulhub/kkfileview:4.3.0
 vulhub/httpd:2.4.50
 vulhub/metabase:0.46.6
+o2oa/o2server:v8.1.0
