@@ -19,3 +19,4 @@ easysoft/zentao:18.0
 vulhub/coldfusion:2018.0.15
 vulhub/apache-druid:0.20.0
 vulfocus/zimbra-cve_2019_9670
+vulfocus/saltstack-cve_2020_16846:latest
