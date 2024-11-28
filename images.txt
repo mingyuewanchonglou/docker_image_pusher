@@ -22,3 +22,5 @@ vulhub/shiro:1.5.1
 vulhub/glassfish:4.1
 vulhub/adminer:4.6.2
 docker.io/bitnami/minideb:bookworm
+docker.io/bitnami/suitecrm:8.6.0
+docker.io/bitnami/mariadb:11.4
