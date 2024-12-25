@@ -24,3 +24,4 @@ vulhub/adminer:4.6.2
 docker.io/bitnami/minideb:bookworm
 docker.io/bitnami/suitecrm:8
 docker.io/bitnami/mariadb:11.4
+kennethreitz/httpbin:latest
