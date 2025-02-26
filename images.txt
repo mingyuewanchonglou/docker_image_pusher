@@ -25,3 +25,4 @@ docker.io/bitnami/minideb:bookworm
 docker.io/bitnami/suitecrm:8
 docker.io/bitnami/mariadb:11.4
 kennethreitz/httpbin:latest
+ghcr.io/open-webui/open-webui:main
